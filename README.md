@@ -48,51 +48,19 @@
 
 - 🎬 **Cinematic Portfolio**  
   _A film-style portfolio with smooth transitions_  
-  👉 [Live Demo](#) | [Repo](#)
-
-- ⚛️ **React UI Playground**  
-  _Reusable components & animations_  
-  👉 [Live Demo](#) | [Repo](#)
+  👉 (https://www.bhandaridipesh.com.np/)
 
 - 🎥 **Vlog Website**  
   _Personal vlog platform with modern UI_  
-  👉 [Live Demo](#) | [Repo](#)
+  👉 https://www.youtube.com/@xurde-Odyssey
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160" />
-</p>
-
----
 
 ## 🎵 Currently Vibing With
 
-🎧 Coding late nights  
+🎧 Vibe Coding late nights  
 🎬 Cinematic soundtracks  
 ☕ Coffee + VS Code  
 📸 Camera in one hand, keyboard in the other  
-
----
-
-## 🤝 Let’s Connect
-
-<p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.youtube.com/@YOUR_CHANNEL">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube" />
-  </a>
-  <a href="https://instagram.com/YOUR_HANDLE">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <strong>🎬 Thanks for stopping by — roll credits.</strong>
